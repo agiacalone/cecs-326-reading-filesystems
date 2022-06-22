@@ -1,5 +1,4 @@
 # CECS 326 Reading Assignment: Filesystems
-## 20 points
 
 ### Assignment Description
 Answer the following questions from the Chapter 6 reading from your textbook. Be complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
